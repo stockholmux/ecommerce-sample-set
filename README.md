@@ -4,7 +4,7 @@ I had a hard time finding a sample set of e-commerce items that was sufficiently
 
 This sample set was built with data from [Faker.js](https://github.com/marak/Faker.js/) and images from the free [Re:splashed](http://www.resplashed.com/) collection (individual artists noted in the JSON file). I wrote a compositing script with GraphicsMagick to combine the Re:splashed images with a couple of line-art vectors (mugs and shirts).
 
-The mug vector was adapted from [Arnaud.ramey work on wikipedia](https://en.wikipedia.org/wiki/File:Mug.svg) (Creative Commons  Attribution-Share Alike 3.0 Unported)
+The mug vector was adapted from [Arnaud.ramey's work on wikipedia](https://en.wikipedia.org/wiki/File:Mug.svg) (Creative Commons  Attribution-Share Alike 3.0 Unported)
 
 The shirt vector was adapted from [IKorteXI](http://ikortexi.deviantart.com/art/Shirt-Template-67136327?) (no formal license, but assumed public domain by the line "Shirt template i made that anyone can use. Credit appreciated.")
 
@@ -46,5 +46,5 @@ The shirt vector was adapted from [IKorteXI](http://ikortexi.deviantart.com/art/
 ```
 
 
-## Liscense
+## License
 Creative Commons Attribution-Share Alike 3.0 Unported
